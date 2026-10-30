@@ -1,0 +1,12 @@
+node_modules/
+dist/
+out/
+.vercel/
+.env*
+!.env.example
+*.log
+.DS_Store
+.northwind-private/
+*.p8
+*.p12
+*.pem

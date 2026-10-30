@@ -1,0 +1,24 @@
+# Upload only what the web build and the /api functions need (the repo also holds the Electron app,
+# blog, media and docs: tens of thousands of files that made deploys crawl).
+/*
+!/api
+!/src
+!/package.json
+!/package-lock.json
+!/vite.config.ts
+!/vercel.json
+!/tsconfig.json
+!/tsconfig.web.json
+!/tsconfig.node.json
+!/docs
+/docs/*
+!/docs/logo.png
+!/docs/community
+/docs/community/*
+!/docs/community/nc-logo.svg
+
+# Never upload secrets or tests.
+.env
+.env.*
+**/*.test.cjs
+/src/main

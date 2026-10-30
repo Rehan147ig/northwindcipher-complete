@@ -1,0 +1,456 @@
+{
+  "generatedBy": "scripts/extract-avatars.mjs",
+  "source": "src/renderer/src/scene/office/portraitArt.ts",
+  "characters": [
+    {
+      "name": "michael",
+      "displayName": "Michael",
+      "shirt": "#5a6b8c",
+      "blurb": "World's best boss",
+      "size": {
+        "portrait": [
+          18,
+          28
+        ],
+        "full": [
+          18,
+          32
+        ]
+      },
+      "files": {
+        "portrait": [
+          "michael-portrait.png",
+          "michael-portrait@8x.png"
+        ],
+        "full-front": [
+          "michael-full-front.png",
+          "michael-full-front@8x.png"
+        ],
+        "full-back": [
+          "michael-full-back.png",
+          "michael-full-back@8x.png"
+        ]
+      }
+    },
+    {
+      "name": "jim",
+      "displayName": "Jim",
+      "shirt": "#6fa8dc",
+      "blurb": "Salesman, prankster",
+      "size": {
+        "portrait": [
+          18,
+          28
+        ],
+        "full": [
+          18,
+          32
+        ]
+      },
+      "files": {
+        "portrait": [
+          "jim-portrait.png",
+          "jim-portrait@8x.png"
+        ],
+        "full-front": [
+          "jim-full-front.png",
+          "jim-full-front@8x.png"
+        ],
+        "full-back": [
+          "jim-full-back.png",
+          "jim-full-back@8x.png"
+        ]
+      }
+    },
+    {
+      "name": "pam",
+      "displayName": "Pam",
+      "shirt": "#9caf88",
+      "blurb": "Receptionist, artist",
+      "size": {
+        "portrait": [
+          18,
+          28
+        ],
+        "full": [
+          18,
+          32
+        ]
+      },
+      "files": {
+        "portrait": [
+          "pam-portrait.png",
+          "pam-portrait@8x.png"
+        ],
+        "full-front": [
+          "pam-full-front.png",
+          "pam-full-front@8x.png"
+        ],
+        "full-back": [
+          "pam-full-back.png",
+          "pam-full-back@8x.png"
+        ]
+      }
+    },
+    {
+      "name": "dwight",
+      "displayName": "Dwight",
+      "shirt": "#b89b3e",
+      "blurb": "Assistant (to the) RM",
+      "size": {
+        "portrait": [
+          18,
+          28
+        ],
+        "full": [
+          18,
+          32
+        ]
+      },
+      "files": {
+        "portrait": [
+          "dwight-portrait.png",
+          "dwight-portrait@8x.png"
+        ],
+        "full-front": [
+          "dwight-full-front.png",
+          "dwight-full-front@8x.png"
+        ],
+        "full-back": [
+          "dwight-full-back.png",
+          "dwight-full-back@8x.png"
+        ]
+      }
+    },
+    {
+      "name": "kevin",
+      "displayName": "Kevin",
+      "shirt": "#4a7ab5",
+      "blurb": "Accounting",
+      "size": {
+        "portrait": [
+          18,
+          28
+        ],
+        "full": [
+          18,
+          32
+        ]
+      },
+      "files": {
+        "portrait": [
+          "kevin-portrait.png",
+          "kevin-portrait@8x.png"
+        ],
+        "full-front": [
+          "kevin-full-front.png",
+          "kevin-full-front@8x.png"
+        ],
+        "full-back": [
+          "kevin-full-back.png",
+          "kevin-full-back@8x.png"
+        ]
+      }
+    },
+    {
+      "name": "angela",
+      "displayName": "Angela",
+      "shirt": "#8a86a6",
+      "blurb": "Head of accounting",
+      "size": {
+        "portrait": [
+          18,
+          28
+        ],
+        "full": [
+          18,
+          32
+        ]
+      },
+      "files": {
+        "portrait": [
+          "angela-portrait.png",
+          "angela-portrait@8x.png"
+        ],
+        "full-front": [
+          "angela-full-front.png",
+          "angela-full-front@8x.png"
+        ],
+        "full-back": [
+          "angela-full-back.png",
+          "angela-full-back@8x.png"
+        ]
+      }
+    },
+    {
+      "name": "oscar",
+      "displayName": "Oscar",
+      "shirt": "#7a4b6b",
+      "blurb": "Accountant",
+      "size": {
+        "portrait": [
+          18,
+          28
+        ],
+        "full": [
+          18,
+          32
+        ]
+      },
+      "files": {
+        "portrait": [
+          "oscar-portrait.png",
+          "oscar-portrait@8x.png"
+        ],
+        "full-front": [
+          "oscar-full-front.png",
+          "oscar-full-front@8x.png"
+        ],
+        "full-back": [
+          "oscar-full-back.png",
+          "oscar-full-back@8x.png"
+        ]
+      }
+    },
+    {
+      "name": "stanley",
+      "displayName": "Stanley",
+      "shirt": "#8c5a4b",
+      "blurb": "Sales, crossword",
+      "size": {
+        "portrait": [
+          18,
+          28
+        ],
+        "full": [
+          18,
+          32
+        ]
+      },
+      "files": {
+        "portrait": [
+          "stanley-portrait.png",
+          "stanley-portrait@8x.png"
+        ],
+        "full-front": [
+          "stanley-full-front.png",
+          "stanley-full-front@8x.png"
+        ],
+        "full-back": [
+          "stanley-full-back.png",
+          "stanley-full-back@8x.png"
+        ]
+      }
+    },
+    {
+      "name": "phyllis",
+      "displayName": "Phyllis",
+      "shirt": "#b08bbf",
+      "blurb": "Sales",
+      "size": {
+        "portrait": [
+          18,
+          28
+        ],
+        "full": [
+          18,
+          32
+        ]
+      },
+      "files": {
+        "portrait": [
+          "phyllis-portrait.png",
+          "phyllis-portrait@8x.png"
+        ],
+        "full-front": [
+          "phyllis-full-front.png",
+          "phyllis-full-front@8x.png"
+        ],
+        "full-back": [
+          "phyllis-full-back.png",
+          "phyllis-full-back@8x.png"
+        ]
+      }
+    },
+    {
+      "name": "andy",
+      "displayName": "Andy",
+      "shirt": "#6fae6f",
+      "blurb": "Cornell, a cappella",
+      "size": {
+        "portrait": [
+          18,
+          28
+        ],
+        "full": [
+          18,
+          32
+        ]
+      },
+      "files": {
+        "portrait": [
+          "andy-portrait.png",
+          "andy-portrait@8x.png"
+        ],
+        "full-front": [
+          "andy-full-front.png",
+          "andy-full-front@8x.png"
+        ],
+        "full-back": [
+          "andy-full-back.png",
+          "andy-full-back@8x.png"
+        ]
+      }
+    },
+    {
+      "name": "kelly",
+      "displayName": "Kelly",
+      "shirt": "#d16ba5",
+      "blurb": "Customer service",
+      "size": {
+        "portrait": [
+          18,
+          28
+        ],
+        "full": [
+          18,
+          32
+        ]
+      },
+      "files": {
+        "portrait": [
+          "kelly-portrait.png",
+          "kelly-portrait@8x.png"
+        ],
+        "full-front": [
+          "kelly-full-front.png",
+          "kelly-full-front@8x.png"
+        ],
+        "full-back": [
+          "kelly-full-back.png",
+          "kelly-full-back@8x.png"
+        ]
+      }
+    },
+    {
+      "name": "ryan",
+      "displayName": "Ryan",
+      "shirt": "#3a3a44",
+      "blurb": "The temp",
+      "size": {
+        "portrait": [
+          18,
+          28
+        ],
+        "full": [
+          18,
+          32
+        ]
+      },
+      "files": {
+        "portrait": [
+          "ryan-portrait.png",
+          "ryan-portrait@8x.png"
+        ],
+        "full-front": [
+          "ryan-full-front.png",
+          "ryan-full-front@8x.png"
+        ],
+        "full-back": [
+          "ryan-full-back.png",
+          "ryan-full-back@8x.png"
+        ]
+      }
+    },
+    {
+      "name": "toby",
+      "displayName": "Toby",
+      "shirt": "#9a8c5a",
+      "blurb": "Human resources",
+      "size": {
+        "portrait": [
+          18,
+          28
+        ],
+        "full": [
+          18,
+          32
+        ]
+      },
+      "files": {
+        "portrait": [
+          "toby-portrait.png",
+          "toby-portrait@8x.png"
+        ],
+        "full-front": [
+          "toby-full-front.png",
+          "toby-full-front@8x.png"
+        ],
+        "full-back": [
+          "toby-full-back.png",
+          "toby-full-back@8x.png"
+        ]
+      }
+    },
+    {
+      "name": "creed",
+      "displayName": "Creed",
+      "shirt": "#6b7a4b",
+      "blurb": "Quality assurance",
+      "size": {
+        "portrait": [
+          18,
+          28
+        ],
+        "full": [
+          18,
+          32
+        ]
+      },
+      "files": {
+        "portrait": [
+          "creed-portrait.png",
+          "creed-portrait@8x.png"
+        ],
+        "full-front": [
+          "creed-full-front.png",
+          "creed-full-front@8x.png"
+        ],
+        "full-back": [
+          "creed-full-back.png",
+          "creed-full-back@8x.png"
+        ]
+      }
+    },
+    {
+      "name": "meredith",
+      "displayName": "Meredith",
+      "shirt": "#b5544a",
+      "blurb": "Supplier relations",
+      "size": {
+        "portrait": [
+          18,
+          28
+        ],
+        "full": [
+          18,
+          32
+        ]
+      },
+      "files": {
+        "portrait": [
+          "meredith-portrait.png",
+          "meredith-portrait@8x.png"
+        ],
+        "full-front": [
+          "meredith-full-front.png",
+          "meredith-full-front@8x.png"
+        ],
+        "full-back": [
+          "meredith-full-back.png",
+          "meredith-full-back@8x.png"
+        ]
+      }
+    }
+  ]
+}

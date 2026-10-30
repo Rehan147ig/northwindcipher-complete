@@ -1,0 +1,6 @@
+confirmation     Confirm your Northwind Cipher account
+magic_link       Your Northwind Cipher sign-in link
+recovery         Reset your Northwind Cipher password
+invite           You’re invited to Northwind Cipher
+email_change     Confirm your new email address
+reauthentication Your Northwind Cipher confirmation code

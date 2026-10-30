@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Confirm your new email.</title>
+</head>
+<body style="margin:0;padding:0;background:#faf8f1;">
+<div style="display:none;max-height:0;overflow:hidden;opacity:0;color:#faf8f1;">Confirm the change to your account email.</div>
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#faf8f1;">
+<tr><td align="center" style="padding:32px 16px;">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:560px;background:#ffffff;border:1px solid #dedfd2;border-radius:8px;">
+    <tr><td style="padding:28px 32px 8px 32px;">
+      <table role="presentation" cellpadding="0" cellspacing="0"><tr>
+        <td style="padding-right:12px;"><img src="{{ .SiteURL }}/community/nc-logo.png" width="44" height="44" alt="Northwind Cipher" style="display:block;border-radius:8px;border:0;"></td>
+        <td style="font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:700;letter-spacing:2px;color:#273b32;line-height:1.5;">NORTHWIND CIPHER<br><span style="font-family:'Courier New',monospace;font-size:10px;font-weight:400;letter-spacing:1.6px;color:#70776b;">COMMUNITY</span></td>
+      </tr></table>
+    </td></tr>
+    <tr><td style="padding:16px 32px 0 32px;font-family:Georgia,'Times New Roman',serif;font-size:28px;line-height:1.2;color:#273b32;">Confirm your new email.</td></tr>
+    <tr><td style="padding:12px 32px 0 32px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#4b564c;">You asked to change your account email from {{ .Email }} to {{ .NewEmail }}. Confirm to finish the change.</td></tr>
+    <tr><td style="padding:24px 32px 8px 32px;">
+      <a href="{{ .ConfirmationURL }}" style="display:inline-block;background:#6e1423;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:15px;font-weight:700;text-decoration:none;padding:13px 24px;border-radius:5px;">Confirm new email</a>
+    </td></tr>
+    
+    <tr><td style="padding:16px 32px 0 32px;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.6;color:#70776b;">Button not working? Paste this link into your browser:<br><a href="{{ .ConfirmationURL }}" style="color:#6e1423;word-break:break-all;">{{ .ConfirmationURL }}</a></td></tr>
+    <tr><td style="padding:20px 32px 28px 32px;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.6;color:#70776b;border-top:1px solid #efece0;margin-top:20px;">If you didn’t request this change, secure your account and ignore this email.</td></tr>
+  </table>
+  <div style="font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#9a9f93;padding:16px;">Northwind Cipher · Open source, open doors.</div>
+</td></tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="270 610 360 350" role="img" aria-label="Northwind Cipher">
+<rect x="270" y="610" width="360" height="350" fill="#02040d"/>
+<g fill="none" stroke="#fff" stroke-linejoin="miter">
+<path d="M330 672V920" stroke-width="30"/>
+<path d="M322 684L470 796C510 828 545 872 590 880" stroke-width="30"/>
+<path d="M590 880V922" stroke-width="30" stroke-linecap="butt"/>
+<path d="M590 650C540 660 502 712 494 780" stroke-width="16"/>
+</g>
+</svg>
